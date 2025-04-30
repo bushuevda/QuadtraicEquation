@@ -3,7 +3,7 @@
 
 #include <iostream>
 #include <cmath>
-
+#include <cassert>
 
 class QuadraticEquation{
     private:
